@@ -1,3 +1,3 @@
-const audio = document.getElementById('celebrationAudio');
+const audio = document.getElementById('audio');
 audio.muted = false;
 audio.play();
