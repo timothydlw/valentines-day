@@ -1,2 +1,2 @@
-<h1>Valentines Day</h1>
+#Valentines Day
 A small Valentine's Day project.
