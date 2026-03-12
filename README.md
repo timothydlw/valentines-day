@@ -1,2 +1,6 @@
 # Valentines Day
-A small Valentine's Day project.
+## A Valentine's Day card.
+## Motivation
+## Quick Start
+## Usage
+## Contributing
